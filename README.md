@@ -1,9 +1,8 @@
 ## DESCRIPTION
 
-![](https://github.com/dxcore35/obs-md-header-spliter/blob/master/markdown-spliter-diagram.png)
+One line AWK script for spliting markdown file into to multiple files. The spearator for splitting are first level markdown formatted headings.
 
-One line AWK script for spliting markdown file into to multiple files.
-The spearator for splitting are first level markdown formatted headings.
+![](https://github.com/dxcore35/obs-md-header-spliter/blob/master/markdown-spliter-diagram.png)
 
 # INPUT DATA FILE
 
